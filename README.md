@@ -62,4 +62,4 @@ Flash to the 32GB microSD using Raspberry Pi Imager
 | Amrit | Software, documentation, components selection/testing |
 | Nayan | Hardware, 3D design & enclosure |
 
-* Built with curiosity and alot of 3AM frustation :) *
+*Built with curiosity and alot of 3AM frustation :)*
